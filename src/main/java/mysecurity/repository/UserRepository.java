@@ -1,7 +1,7 @@
-package Repository;
+package mysecurity.repository;
 
 
-import Model.User;
+import mysecurity.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
